@@ -1,8 +1,7 @@
 from setuptools import setup
 
 setup(
-    # Needed to silence warnings (and to be a worthwhile package)
-    name='ScratchStats',
+    name='scratchstats',
     url='https://github.com/DaggyBaggy/scratchstats',
     author='DaggyBaggy',
     author_email='NONE',
