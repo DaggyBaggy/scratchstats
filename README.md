@@ -6,7 +6,7 @@
 ### How to install ScratchStats:
 To install write this in command promp / shell:
 ```
-pip install scratchstats --upgrade
+pip install git+https://github.com/DaggyBaggy/scratchstats
 ```
 ### How to use ScratchStats:
 ```
